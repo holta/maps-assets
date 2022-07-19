@@ -1,8 +1,8 @@
-This [Internet-in-a-Box (IIAB)](https://internet-in-a-box.org) repo (maps-assets) consolidates larger bootstrapping data files used for city search, OpenStreetMap (OSM) and Satellite view:
+This [Internet-in-a-Box (IIAB)](https://internet-in-a-box.org) repo (maps-assets) consolidates larger bootstrapping data files used for city search, OpenStreetMap (OSM) and Satellite view &mdash; as installed by:
 
 - https://github.com/iiab/iiab/blob/master/roles/osm-vector-maps/tasks/install.yml
 
-As of 2022-07-19 these are:
+As of 2022-07-19 the files are:
 
 - cities1000.sqlite (26MB)
 - planet_z0-z6_2020.mbtiles (48MB)
